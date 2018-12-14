@@ -1,2 +1,3 @@
 # clonify
-This repository contains a clone for the spotify website
+This repository contains a clone for the spotify login page 
+
